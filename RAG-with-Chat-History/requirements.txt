@@ -1,0 +1,4 @@
+langchain
+langchain-community
+chromadb 
+bs4 
