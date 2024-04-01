@@ -1,0 +1,4 @@
+langchain
+langchain-experimental
+langchain-anthropic 
+streamlit
