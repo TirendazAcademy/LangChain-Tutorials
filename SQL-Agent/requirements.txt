@@ -1,3 +1,5 @@
-langchain 
-langchain-community 
-langchain-experimental
+langchain
+langchain_community 
+langchain_openai
+streamlit 
+python-dotenv
